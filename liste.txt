@@ -1,0 +1,15 @@
+collatz.py
+eratosthenes.py
+fahrenheit.py
+fak.py
+fib2.py
+fib.py
+findprimes.py
+grav.py
+hello.py
+makelist.py
+prim.py
+quadkub2.py
+quadkub.py
+ReadArgs.py
+vektorops.py
